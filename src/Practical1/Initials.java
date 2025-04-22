@@ -21,6 +21,6 @@ public class Initials {
             *   *  *
             """;
        
-        System.out.print(rp);
+        System.out.println(rp);
     }
 }
