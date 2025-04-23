@@ -17,7 +17,6 @@ public class Q10 {
             }
         }
 
-        System.out.print(String.format("Elements of int array: %d %d %d %d %d", intArray[0], intArray[1], intArray[2], intArray[3], intArray[4]));
-        System.out.printf("\nHighest Element: %d", highestValue);
+        System.out.print(String.format("Elements of int array: %d %d %d %d %d\nHighest Element: %d", intArray[0], intArray[1], intArray[2], intArray[3], intArray[4], highestValue));
     }
 }
