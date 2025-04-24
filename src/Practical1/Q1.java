@@ -13,9 +13,3 @@ public class Q1 {
         System.out.println("Hello World");
     }
 }
-
-class Initials {
-    public static void main(String[] args) {
-        System.out.print("RP");
-    }
-}
