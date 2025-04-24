@@ -1,9 +1,21 @@
 package Practical2;
 
+import java.util.*;
+
 // Qn10a,b
-public class Q10 {
+public class Q10c {
+
+    public static Scanner input = new Scanner(System.in);
+
     public static void main(String[] args) {
-        int[] intArray = {11, 0, 10, 2, 2};
+        int[] intArray = new int[5];
+
+        for (int i=0;i<intArray.length;i++) {
+            System.out.printf("Enter value for intArray[%d] -> ", i);
+            int userInput = input.nextInt();
+            intArray[i] = userInput;
+        }
+
         int highestValue = 0;
 
         for (int i=0;i<intArray.length;i++) {
