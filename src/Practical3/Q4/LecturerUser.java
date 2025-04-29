@@ -1,4 +1,4 @@
-package Practical3;
+package Practical3.Q4;
 
 public class LecturerUser {
     public static void main(String[] args) {

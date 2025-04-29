@@ -1,4 +1,4 @@
-package Practical3;
+package Practical3.Q2;
 
 public class Sphere {
     private double radius;

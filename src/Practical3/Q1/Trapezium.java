@@ -1,4 +1,4 @@
-package Practical3;
+package Practical3.Q1;
 
 public class Trapezium {
     private double base, top, height;
