@@ -1,4 +1,4 @@
-package Practical3.Q2;
+package Q2;
 
 import javax.swing.*;
 

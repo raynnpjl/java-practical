@@ -1,4 +1,4 @@
-package Practical3.Q5;
+package Q5;
 
 public class Person {
     private String name;
@@ -20,6 +20,6 @@ public class Person {
     }
 
     public void introduce() {
-        System.out.printf("My name is %s.", this.name);
+        System.out.printf("My name is %s.\n", this.name);
     }
 }

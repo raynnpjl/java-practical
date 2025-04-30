@@ -1,4 +1,4 @@
-package Practical3.Q4;
+package Q4;
 
 public class PartTimeLecturer extends Lecturer{
     private double hourlyRate;

@@ -1,4 +1,4 @@
-package Practical3.Q3;
+package Q3;
 
 import javax.swing.JOptionPane;
 

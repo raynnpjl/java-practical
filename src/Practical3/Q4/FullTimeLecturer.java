@@ -1,4 +1,4 @@
-package Practical3.Q4;
+package Q4;
 
 public class FullTimeLecturer extends Lecturer {
     private String[] PTClass;

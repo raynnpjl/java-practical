@@ -1,4 +1,4 @@
-package Practical3.Q5;
+package Q5;
 
 public class Student extends Person{
     private char stdYear;
@@ -14,6 +14,6 @@ public class Student extends Person{
 
     public void introduce() {
         super.introduce();
-        System.out.printf("I am a year %c student.", this.stdYear);
+        System.out.printf("I am a year %c student.\n", this.stdYear);
     }
 }

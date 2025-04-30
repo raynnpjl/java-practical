@@ -1,4 +1,4 @@
-package Practical3.Q5;
+package Q5;
 
 public class Lecturer extends Person{
     private String[] modules;
@@ -22,7 +22,7 @@ public class Lecturer extends Person{
 
     public void introduce() {
         super.introduce();
-        System.out.printf("I am the lecturer for the following subjects:");
+        System.out.printf("I am the lecturer for the following subjects:\n");
         int counter = 1;
         for (String mod : modules) {
             System.out.printf("%d. %s\n", counter, mod);

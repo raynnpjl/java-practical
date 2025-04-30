@@ -1,4 +1,4 @@
-package Practical3.Q1;
+package Q1;
 
 public class TrapeziumUser {
     public static void main(String[] args) {
